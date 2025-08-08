@@ -9,3 +9,6 @@
 
 ## Tool
 `https://obfuscator.io/`
+
+Prettier
+`https://prettier.io/playground/`
